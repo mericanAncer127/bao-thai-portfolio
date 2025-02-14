@@ -4,6 +4,7 @@
 }
 .project-portfolio-section {
   flex-grow: 1;
+  width: 50%;
 }
 
 .project-portfolio-section .section-title {
@@ -23,3 +24,4 @@
   font-weight: bold;
   src: url("../GraublauWebBold.otf") format(truetype);
 }
+

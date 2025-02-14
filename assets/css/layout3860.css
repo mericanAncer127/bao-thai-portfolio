@@ -1390,7 +1390,7 @@ padding-top:40px;
 
 .sidebar{
 margin-bottom:40px;
-position: relative;
+position: fixed;
 display: block;
 width:240px;
 }
